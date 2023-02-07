@@ -10,7 +10,9 @@ The objective is to Create Dashboard:
 3. That shows the numbers of sales against budget
 4. That shows map of customer with their sales number
 
-# File Details
+and, to gather some insights from the dashboard.
+
+# File Description
 In this repository contains some folders/files
 
 | File/Folder Name | Description |
@@ -20,3 +22,6 @@ In this repository contains some folders/files
 | Business Request.png | Email from the Sales manager |
 | Sales Budget.xlsx | Sales Budget Excel File |
 | Sales Overview Dashboard.pbix | Power Bi Dashboard file |
+
+# More about this project visit:
+## [My Personal Website](https://google.com)
