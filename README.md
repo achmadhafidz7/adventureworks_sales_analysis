@@ -24,4 +24,4 @@ In this repository contains some folders/files
 | Sales Overview Dashboard.pbix | Power Bi Dashboard file |
 
 # More about this project visit:
-## [My Personal Website](https://google.com)
+## [My Personal Website](https://achmadhafidz7.github.io/)
